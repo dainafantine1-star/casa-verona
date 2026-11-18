@@ -1,0 +1,1919 @@
+{
+  "hero": {
+    "id": "1-iHX2Glo0u6oVB_42MwXedbLA8ckuZRs",
+    "reference": "IMG_3925.jpg",
+    "width": 2268,
+    "height": 4032,
+    "small": "assets/1-iHX2Glo0u6oVB_42MwXedbLA8ckuZRs-small.webp",
+    "large": "assets/1-iHX2Glo0u6oVB_42MwXedbLA8ckuZRs-large.webp",
+    "alt": "Celebração de F&R na Casa Verona"
+  },
+  "house": {
+    "id": "1SFz_R1rUJ6wRcSVpOYy1sEZdE4EjDMso",
+    "reference": "copy_9149C90D-9B66-43BF-B549-79D09FE9EDD4.jpeg",
+    "width": 2268,
+    "height": 4032,
+    "small": "assets/1SFz_R1rUJ6wRcSVpOYy1sEZdE4EjDMso-small.webp",
+    "large": "assets/1SFz_R1rUJ6wRcSVpOYy1sEZdE4EjDMso-large.webp",
+    "alt": "Celebração de M&R na Casa Verona"
+  },
+  "events": [
+    {
+      "id": "a-r",
+      "name": "A&R",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1jwP7E9oOkBJFP1UnRCz7D53aeJaPTtVt",
+        "reference": "IMG_4256.jpg",
+        "width": 2910,
+        "height": 4032,
+        "small": "assets/1jwP7E9oOkBJFP1UnRCz7D53aeJaPTtVt-small.webp",
+        "large": "assets/1jwP7E9oOkBJFP1UnRCz7D53aeJaPTtVt-large.webp",
+        "alt": "Celebração de A&R na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1jwP7E9oOkBJFP1UnRCz7D53aeJaPTtVt",
+          "reference": "IMG_4256.jpg",
+          "width": 2910,
+          "height": 4032,
+          "small": "assets/1jwP7E9oOkBJFP1UnRCz7D53aeJaPTtVt-small.webp",
+          "large": "assets/1jwP7E9oOkBJFP1UnRCz7D53aeJaPTtVt-large.webp",
+          "alt": "Celebração de A&R na Casa Verona"
+        },
+        {
+          "id": "1UpmqRHjRGg9FrgT2TX_Ettty2S3F5nsE",
+          "reference": "IMG_4147.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1UpmqRHjRGg9FrgT2TX_Ettty2S3F5nsE-small.webp",
+          "large": "assets/1UpmqRHjRGg9FrgT2TX_Ettty2S3F5nsE-large.webp",
+          "alt": "Celebração de A&R na Casa Verona"
+        },
+        {
+          "id": "1zWLPLYsEvwIirzcvJRvV8Gud9boArNH6",
+          "reference": "IMG_4207.jpg",
+          "width": 2937,
+          "height": 3916,
+          "small": "assets/1zWLPLYsEvwIirzcvJRvV8Gud9boArNH6-small.webp",
+          "large": "assets/1zWLPLYsEvwIirzcvJRvV8Gud9boArNH6-large.webp",
+          "alt": "Celebração de A&R na Casa Verona"
+        },
+        {
+          "id": "1-RKr9AvejjJI2qIMs0cHbHSjXM0W4rXL",
+          "reference": "IMG_4213.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1-RKr9AvejjJI2qIMs0cHbHSjXM0W4rXL-small.webp",
+          "large": "assets/1-RKr9AvejjJI2qIMs0cHbHSjXM0W4rXL-large.webp",
+          "alt": "Celebração de A&R na Casa Verona"
+        },
+        {
+          "id": "1bb79UmPX9-9z0P0fy6S5aNGNnZDNz8Zc",
+          "reference": "IMG_4216.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1bb79UmPX9-9z0P0fy6S5aNGNnZDNz8Zc-small.webp",
+          "large": "assets/1bb79UmPX9-9z0P0fy6S5aNGNnZDNz8Zc-large.webp",
+          "alt": "Celebração de A&R na Casa Verona"
+        },
+        {
+          "id": "1c6FBMI2FrkAglcERpwZOakUPRns4JJWE",
+          "reference": "IMG_4221.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1c6FBMI2FrkAglcERpwZOakUPRns4JJWE-small.webp",
+          "large": "assets/1c6FBMI2FrkAglcERpwZOakUPRns4JJWE-large.webp",
+          "alt": "Celebração de A&R na Casa Verona"
+        },
+        {
+          "id": "1dXkA2nC4-6UUBOeltneKEzDND2rLMI7d",
+          "reference": "IMG_4244.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1dXkA2nC4-6UUBOeltneKEzDND2rLMI7d-small.webp",
+          "large": "assets/1dXkA2nC4-6UUBOeltneKEzDND2rLMI7d-large.webp",
+          "alt": "Celebração de A&R na Casa Verona"
+        },
+        {
+          "id": "1e5EBT1aqZcQvRv8bp_DMnPQjK6XgdeAC",
+          "reference": "IMG_4250.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1e5EBT1aqZcQvRv8bp_DMnPQjK6XgdeAC-small.webp",
+          "large": "assets/1e5EBT1aqZcQvRv8bp_DMnPQjK6XgdeAC-large.webp",
+          "alt": "Celebração de A&R na Casa Verona"
+        },
+        {
+          "id": "1JxXZXtKCOv3ttpfEvimTWM3fGw5svM9m",
+          "reference": "IMG_4268.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1JxXZXtKCOv3ttpfEvimTWM3fGw5svM9m-small.webp",
+          "large": "assets/1JxXZXtKCOv3ttpfEvimTWM3fGw5svM9m-large.webp",
+          "alt": "Celebração de A&R na Casa Verona"
+        },
+        {
+          "id": "1GKVjUijsqfGWttgmqfnjKgeXgE5oKhj_",
+          "reference": "IMG_4279.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1GKVjUijsqfGWttgmqfnjKgeXgE5oKhj_-small.webp",
+          "large": "assets/1GKVjUijsqfGWttgmqfnjKgeXgE5oKhj_-large.webp",
+          "alt": "Celebração de A&R na Casa Verona"
+        },
+        {
+          "id": "1xH7Y4nsky0pwxQoE_niwmUDQ8Bzj52aB",
+          "reference": "IMG_4284.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1xH7Y4nsky0pwxQoE_niwmUDQ8Bzj52aB-small.webp",
+          "large": "assets/1xH7Y4nsky0pwxQoE_niwmUDQ8Bzj52aB-large.webp",
+          "alt": "Celebração de A&R na Casa Verona"
+        }
+      ],
+      "video": {
+        "src": "assets/a-r-1KoRl0gmoEAeohxztC-hpRM6c7tOFGR5n-web.mp4",
+        "poster": "assets/a-r-1KoRl0gmoEAeohxztC-hpRM6c7tOFGR5n-poster.webp"
+      }
+    },
+    {
+      "id": "f-r",
+      "name": "F&R",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1xCGI258x3KZNrjdKU0sbQYHxKFCvgEvm",
+        "reference": "IMG_4318.jpg",
+        "width": 3176,
+        "height": 3920,
+        "small": "assets/1xCGI258x3KZNrjdKU0sbQYHxKFCvgEvm-small.webp",
+        "large": "assets/1xCGI258x3KZNrjdKU0sbQYHxKFCvgEvm-large.webp",
+        "alt": "Celebração de F&R na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1xCGI258x3KZNrjdKU0sbQYHxKFCvgEvm",
+          "reference": "IMG_4318.jpg",
+          "width": 3176,
+          "height": 3920,
+          "small": "assets/1xCGI258x3KZNrjdKU0sbQYHxKFCvgEvm-small.webp",
+          "large": "assets/1xCGI258x3KZNrjdKU0sbQYHxKFCvgEvm-large.webp",
+          "alt": "Celebração de F&R na Casa Verona"
+        },
+        {
+          "id": "1-iHX2Glo0u6oVB_42MwXedbLA8ckuZRs",
+          "reference": "IMG_3925.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1-iHX2Glo0u6oVB_42MwXedbLA8ckuZRs-small.webp",
+          "large": "assets/1-iHX2Glo0u6oVB_42MwXedbLA8ckuZRs-large.webp",
+          "alt": "Celebração de F&R na Casa Verona"
+        },
+        {
+          "id": "1iVlOVUwG-XiTK2Wc6gHDAgsz1czD_EUN",
+          "reference": "IMG_4308.jpg",
+          "width": 3187,
+          "height": 4812,
+          "small": "assets/1iVlOVUwG-XiTK2Wc6gHDAgsz1czD_EUN-small.webp",
+          "large": "assets/1iVlOVUwG-XiTK2Wc6gHDAgsz1czD_EUN-large.webp",
+          "alt": "Celebração de F&R na Casa Verona"
+        },
+        {
+          "id": "1wlRY5Az2mDeENYU2ZE8AcMQ95rbqrJJS",
+          "reference": "IMG_4310.jpg",
+          "width": 3149,
+          "height": 4755,
+          "small": "assets/1wlRY5Az2mDeENYU2ZE8AcMQ95rbqrJJS-small.webp",
+          "large": "assets/1wlRY5Az2mDeENYU2ZE8AcMQ95rbqrJJS-large.webp",
+          "alt": "Celebração de F&R na Casa Verona"
+        },
+        {
+          "id": "1Bv25bam15t7EFqPPYC_MaQuwJ2ABgCUb",
+          "reference": "IMG_4334.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1Bv25bam15t7EFqPPYC_MaQuwJ2ABgCUb-small.webp",
+          "large": "assets/1Bv25bam15t7EFqPPYC_MaQuwJ2ABgCUb-large.webp",
+          "alt": "Celebração de F&R na Casa Verona"
+        },
+        {
+          "id": "1njw4xOd8VaNeD3O3RwbwgG4fhccbUdIE",
+          "reference": "IMG_4347.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1njw4xOd8VaNeD3O3RwbwgG4fhccbUdIE-small.webp",
+          "large": "assets/1njw4xOd8VaNeD3O3RwbwgG4fhccbUdIE-large.webp",
+          "alt": "Celebração de F&R na Casa Verona"
+        },
+        {
+          "id": "1jaA2GWgztXM80GiQBh4LuiI3JeFS9OUa",
+          "reference": "IMG_4359.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1jaA2GWgztXM80GiQBh4LuiI3JeFS9OUa-small.webp",
+          "large": "assets/1jaA2GWgztXM80GiQBh4LuiI3JeFS9OUa-large.webp",
+          "alt": "Celebração de F&R na Casa Verona"
+        },
+        {
+          "id": "1hEdheaqAY2h2-KqcK9EOgZx7CWFMQSwz",
+          "reference": "IMG_4371.jpg",
+          "width": 3176,
+          "height": 3920,
+          "small": "assets/1hEdheaqAY2h2-KqcK9EOgZx7CWFMQSwz-small.webp",
+          "large": "assets/1hEdheaqAY2h2-KqcK9EOgZx7CWFMQSwz-large.webp",
+          "alt": "Celebração de F&R na Casa Verona"
+        },
+        {
+          "id": "1js91tuMtV9oQIHL6YV95Hvici-GjzAON",
+          "reference": "IMG_4382.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1js91tuMtV9oQIHL6YV95Hvici-GjzAON-small.webp",
+          "large": "assets/1js91tuMtV9oQIHL6YV95Hvici-GjzAON-large.webp",
+          "alt": "Celebração de F&R na Casa Verona"
+        },
+        {
+          "id": "1q56lS6kLCWMtb5L-sP6trzttWQhhh6cx",
+          "reference": "IMG_4386.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1q56lS6kLCWMtb5L-sP6trzttWQhhh6cx-small.webp",
+          "large": "assets/1q56lS6kLCWMtb5L-sP6trzttWQhhh6cx-large.webp",
+          "alt": "Celebração de F&R na Casa Verona"
+        },
+        {
+          "id": "1TBcoYr6o_51UScQSZ1gvpAb-oTtFos1i",
+          "reference": "IMG_4423.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1TBcoYr6o_51UScQSZ1gvpAb-oTtFos1i-small.webp",
+          "large": "assets/1TBcoYr6o_51UScQSZ1gvpAb-oTtFos1i-large.webp",
+          "alt": "Celebração de F&R na Casa Verona"
+        }
+      ],
+      "video": {
+        "src": "assets/f-r-1Zm5D9tUakKZemvUiQbJPPi6O_gvlyKG4-web.mp4",
+        "poster": "assets/f-r-1Zm5D9tUakKZemvUiQbJPPi6O_gvlyKG4-poster.webp"
+      }
+    },
+    {
+      "id": "a-i",
+      "name": "A&I",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1xAGyo9fZwlq2LZgACQCr58Z3aZAiiDeo",
+        "reference": "c79e9fbf-b11c-4e4e-b7ea-a7e59275eaf3.jpg",
+        "width": 3120,
+        "height": 4160,
+        "small": "assets/1xAGyo9fZwlq2LZgACQCr58Z3aZAiiDeo-small.webp",
+        "large": "assets/1xAGyo9fZwlq2LZgACQCr58Z3aZAiiDeo-large.webp",
+        "alt": "Celebração de A&I na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1xAGyo9fZwlq2LZgACQCr58Z3aZAiiDeo",
+          "reference": "c79e9fbf-b11c-4e4e-b7ea-a7e59275eaf3.jpg",
+          "width": 3120,
+          "height": 4160,
+          "small": "assets/1xAGyo9fZwlq2LZgACQCr58Z3aZAiiDeo-small.webp",
+          "large": "assets/1xAGyo9fZwlq2LZgACQCr58Z3aZAiiDeo-large.webp",
+          "alt": "Celebração de A&I na Casa Verona"
+        },
+        {
+          "id": "1E09eXbAU4y3UYsyx7APitsU4qoOtcoTj",
+          "reference": "IMG_3514.jpg",
+          "width": 2937,
+          "height": 3916,
+          "small": "assets/1E09eXbAU4y3UYsyx7APitsU4qoOtcoTj-small.webp",
+          "large": "assets/1E09eXbAU4y3UYsyx7APitsU4qoOtcoTj-large.webp",
+          "alt": "Celebração de A&I na Casa Verona"
+        },
+        {
+          "id": "1hak_0AT7KDGBNFz8lPoMlrXnG9A7akiz",
+          "reference": "IMG_3517.jpg",
+          "width": 2937,
+          "height": 3916,
+          "small": "assets/1hak_0AT7KDGBNFz8lPoMlrXnG9A7akiz-small.webp",
+          "large": "assets/1hak_0AT7KDGBNFz8lPoMlrXnG9A7akiz-large.webp",
+          "alt": "Celebração de A&I na Casa Verona"
+        },
+        {
+          "id": "1wRgxfArp1a8Ozc9QplkYUjh-rRqXlueP",
+          "reference": "IMG_3521.jpg",
+          "width": 2937,
+          "height": 3916,
+          "small": "assets/1wRgxfArp1a8Ozc9QplkYUjh-rRqXlueP-small.webp",
+          "large": "assets/1wRgxfArp1a8Ozc9QplkYUjh-rRqXlueP-large.webp",
+          "alt": "Celebração de A&I na Casa Verona"
+        },
+        {
+          "id": "1Ng8hEMb2ICq7vD3Sn9GGtT7qUnxYkCx9",
+          "reference": "IMG_3524.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1Ng8hEMb2ICq7vD3Sn9GGtT7qUnxYkCx9-small.webp",
+          "large": "assets/1Ng8hEMb2ICq7vD3Sn9GGtT7qUnxYkCx9-large.webp",
+          "alt": "Celebração de A&I na Casa Verona"
+        },
+        {
+          "id": "1Wax9Cy6Nd-L-GMozTHSBRFrYZ0-11VJ6",
+          "reference": "IMG_3526.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1Wax9Cy6Nd-L-GMozTHSBRFrYZ0-11VJ6-small.webp",
+          "large": "assets/1Wax9Cy6Nd-L-GMozTHSBRFrYZ0-11VJ6-large.webp",
+          "alt": "Celebração de A&I na Casa Verona"
+        },
+        {
+          "id": "1YgSKDD4Uo6IM0KJK_G4IaMBF-KkVuIAS",
+          "reference": "IMG_3532.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1YgSKDD4Uo6IM0KJK_G4IaMBF-KkVuIAS-small.webp",
+          "large": "assets/1YgSKDD4Uo6IM0KJK_G4IaMBF-KkVuIAS-large.webp",
+          "alt": "Celebração de A&I na Casa Verona"
+        },
+        {
+          "id": "1lkguHqADBP_OQFdcXMvlVpawqwzDQexa",
+          "reference": "IMG_3534.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1lkguHqADBP_OQFdcXMvlVpawqwzDQexa-small.webp",
+          "large": "assets/1lkguHqADBP_OQFdcXMvlVpawqwzDQexa-large.webp",
+          "alt": "Celebração de A&I na Casa Verona"
+        },
+        {
+          "id": "1l2mV5K7P9dqpfsfW7p-DSQXExhYVjKfi",
+          "reference": "IMG_3536.jpg",
+          "width": 2908,
+          "height": 3877,
+          "small": "assets/1l2mV5K7P9dqpfsfW7p-DSQXExhYVjKfi-small.webp",
+          "large": "assets/1l2mV5K7P9dqpfsfW7p-DSQXExhYVjKfi-large.webp",
+          "alt": "Celebração de A&I na Casa Verona"
+        },
+        {
+          "id": "1dEyf31QTH0EPB0JwZwXh2zgzu0Mx5iod",
+          "reference": "IMG_3542.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1dEyf31QTH0EPB0JwZwXh2zgzu0Mx5iod-small.webp",
+          "large": "assets/1dEyf31QTH0EPB0JwZwXh2zgzu0Mx5iod-large.webp",
+          "alt": "Celebração de A&I na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "e-a",
+      "name": "E&A",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "12eLykw7scwU2vnSI7HD-4NlxRRPfi0O_",
+        "reference": "IMG_9274.jpg",
+        "width": 3024,
+        "height": 4032,
+        "small": "assets/12eLykw7scwU2vnSI7HD-4NlxRRPfi0O_-small.webp",
+        "large": "assets/12eLykw7scwU2vnSI7HD-4NlxRRPfi0O_-large.webp",
+        "alt": "Celebração de E&A na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "12eLykw7scwU2vnSI7HD-4NlxRRPfi0O_",
+          "reference": "IMG_9274.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/12eLykw7scwU2vnSI7HD-4NlxRRPfi0O_-small.webp",
+          "large": "assets/12eLykw7scwU2vnSI7HD-4NlxRRPfi0O_-large.webp",
+          "alt": "Celebração de E&A na Casa Verona"
+        },
+        {
+          "id": "13UFuwvWzhPw-tfLCYIytT3JnaLvBZ6Cu",
+          "reference": "IMG_9244.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/13UFuwvWzhPw-tfLCYIytT3JnaLvBZ6Cu-small.webp",
+          "large": "assets/13UFuwvWzhPw-tfLCYIytT3JnaLvBZ6Cu-large.webp",
+          "alt": "Celebração de E&A na Casa Verona"
+        },
+        {
+          "id": "1WpjJAkmMCUbDmWiXd1r0KxkWW855uALz",
+          "reference": "IMG_9246.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1WpjJAkmMCUbDmWiXd1r0KxkWW855uALz-small.webp",
+          "large": "assets/1WpjJAkmMCUbDmWiXd1r0KxkWW855uALz-large.webp",
+          "alt": "Celebração de E&A na Casa Verona"
+        },
+        {
+          "id": "1oFyoyy03sI9YLZt8hApTbOUyqEk1zY0y",
+          "reference": "IMG_9256.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1oFyoyy03sI9YLZt8hApTbOUyqEk1zY0y-small.webp",
+          "large": "assets/1oFyoyy03sI9YLZt8hApTbOUyqEk1zY0y-large.webp",
+          "alt": "Celebração de E&A na Casa Verona"
+        },
+        {
+          "id": "1iMT4CuYgp1eFk7Rf62m2uz0vm-6HMbnz",
+          "reference": "IMG_9267.jpg",
+          "width": 2827,
+          "height": 3769,
+          "small": "assets/1iMT4CuYgp1eFk7Rf62m2uz0vm-6HMbnz-small.webp",
+          "large": "assets/1iMT4CuYgp1eFk7Rf62m2uz0vm-6HMbnz-large.webp",
+          "alt": "Celebração de E&A na Casa Verona"
+        },
+        {
+          "id": "1zvBae7SMzlidWELzBBIol76gw5zRkCek",
+          "reference": "IMG_9272.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1zvBae7SMzlidWELzBBIol76gw5zRkCek-small.webp",
+          "large": "assets/1zvBae7SMzlidWELzBBIol76gw5zRkCek-large.webp",
+          "alt": "Celebração de E&A na Casa Verona"
+        },
+        {
+          "id": "1IGw2YsS5MqgWg-GsrU0ZQsJW6sVTidLe",
+          "reference": "IMG_9280.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1IGw2YsS5MqgWg-GsrU0ZQsJW6sVTidLe-small.webp",
+          "large": "assets/1IGw2YsS5MqgWg-GsrU0ZQsJW6sVTidLe-large.webp",
+          "alt": "Celebração de E&A na Casa Verona"
+        },
+        {
+          "id": "1lC7lYAOgg3N23sKcME8uKGP4ZbgRG8ty",
+          "reference": "IMG_9286.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1lC7lYAOgg3N23sKcME8uKGP4ZbgRG8ty-small.webp",
+          "large": "assets/1lC7lYAOgg3N23sKcME8uKGP4ZbgRG8ty-large.webp",
+          "alt": "Celebração de E&A na Casa Verona"
+        },
+        {
+          "id": "1vfmvvmdNSlr50VDOjUzs9jbMiQR05JhT",
+          "reference": "IMG_9291.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1vfmvvmdNSlr50VDOjUzs9jbMiQR05JhT-small.webp",
+          "large": "assets/1vfmvvmdNSlr50VDOjUzs9jbMiQR05JhT-large.webp",
+          "alt": "Celebração de E&A na Casa Verona"
+        },
+        {
+          "id": "1i-86b1WDlHCUR_3HhkDDFWrZ1e8Oxvt3",
+          "reference": "IMG_9326.jpg",
+          "width": 2872,
+          "height": 4032,
+          "small": "assets/1i-86b1WDlHCUR_3HhkDDFWrZ1e8Oxvt3-small.webp",
+          "large": "assets/1i-86b1WDlHCUR_3HhkDDFWrZ1e8Oxvt3-large.webp",
+          "alt": "Celebração de E&A na Casa Verona"
+        },
+        {
+          "id": "15YMdDBIIOpukh3BhaTYxI230bBG0HzUC",
+          "reference": "IMG_9333.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/15YMdDBIIOpukh3BhaTYxI230bBG0HzUC-small.webp",
+          "large": "assets/15YMdDBIIOpukh3BhaTYxI230bBG0HzUC-large.webp",
+          "alt": "Celebração de E&A na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "f-t",
+      "name": "F&T",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1T6NTG4Jg-CD9uIRic309OjyRij3EjPxE",
+        "reference": "IMG_8931.jpg",
+        "width": 2938,
+        "height": 3917,
+        "small": "assets/1T6NTG4Jg-CD9uIRic309OjyRij3EjPxE-small.webp",
+        "large": "assets/1T6NTG4Jg-CD9uIRic309OjyRij3EjPxE-large.webp",
+        "alt": "Celebração de F&T na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1T6NTG4Jg-CD9uIRic309OjyRij3EjPxE",
+          "reference": "IMG_8931.jpg",
+          "width": 2938,
+          "height": 3917,
+          "small": "assets/1T6NTG4Jg-CD9uIRic309OjyRij3EjPxE-small.webp",
+          "large": "assets/1T6NTG4Jg-CD9uIRic309OjyRij3EjPxE-large.webp",
+          "alt": "Celebração de F&T na Casa Verona"
+        },
+        {
+          "id": "1mX2WcYbTzLnOIGi7HEW1udI6r_dkZNDw",
+          "reference": "IMG_8923.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1mX2WcYbTzLnOIGi7HEW1udI6r_dkZNDw-small.webp",
+          "large": "assets/1mX2WcYbTzLnOIGi7HEW1udI6r_dkZNDw-large.webp",
+          "alt": "Celebração de F&T na Casa Verona"
+        },
+        {
+          "id": "16t2bvpVwSwEfcQjxrHCYi1V0_xtSLB4j",
+          "reference": "IMG_8927.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/16t2bvpVwSwEfcQjxrHCYi1V0_xtSLB4j-small.webp",
+          "large": "assets/16t2bvpVwSwEfcQjxrHCYi1V0_xtSLB4j-large.webp",
+          "alt": "Celebração de F&T na Casa Verona"
+        },
+        {
+          "id": "1yloU7YPa-Ro7sL6-VdIpn2EhvwN6gUPh",
+          "reference": "IMG_8935.jpg",
+          "width": 2995,
+          "height": 3994,
+          "small": "assets/1yloU7YPa-Ro7sL6-VdIpn2EhvwN6gUPh-small.webp",
+          "large": "assets/1yloU7YPa-Ro7sL6-VdIpn2EhvwN6gUPh-large.webp",
+          "alt": "Celebração de F&T na Casa Verona"
+        },
+        {
+          "id": "17IShhzc-goCkReYLqAyRHfoiwD5stY79",
+          "reference": "IMG_8940.jpg",
+          "width": 2900,
+          "height": 3866,
+          "small": "assets/17IShhzc-goCkReYLqAyRHfoiwD5stY79-small.webp",
+          "large": "assets/17IShhzc-goCkReYLqAyRHfoiwD5stY79-large.webp",
+          "alt": "Celebração de F&T na Casa Verona"
+        },
+        {
+          "id": "1yO8FFZBnVP_qs_k7zzaafJHtsdrbHkRx",
+          "reference": "IMG_8947.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1yO8FFZBnVP_qs_k7zzaafJHtsdrbHkRx-small.webp",
+          "large": "assets/1yO8FFZBnVP_qs_k7zzaafJHtsdrbHkRx-large.webp",
+          "alt": "Celebração de F&T na Casa Verona"
+        },
+        {
+          "id": "13q2_vMRU6mWvoW8SZBqROFGHf1_SvB8E",
+          "reference": "IMG_8949.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/13q2_vMRU6mWvoW8SZBqROFGHf1_SvB8E-small.webp",
+          "large": "assets/13q2_vMRU6mWvoW8SZBqROFGHf1_SvB8E-large.webp",
+          "alt": "Celebração de F&T na Casa Verona"
+        },
+        {
+          "id": "1ZN03tSjGqe3tsoTRX3_O-EucQvlrW8BX",
+          "reference": "IMG_8952.jpg",
+          "width": 2980,
+          "height": 3974,
+          "small": "assets/1ZN03tSjGqe3tsoTRX3_O-EucQvlrW8BX-small.webp",
+          "large": "assets/1ZN03tSjGqe3tsoTRX3_O-EucQvlrW8BX-large.webp",
+          "alt": "Celebração de F&T na Casa Verona"
+        },
+        {
+          "id": "1T6eCsKctBQSkSFE4rcx49j72cR45xVkA",
+          "reference": "IMG_8957.jpg",
+          "width": 2945,
+          "height": 3927,
+          "small": "assets/1T6eCsKctBQSkSFE4rcx49j72cR45xVkA-small.webp",
+          "large": "assets/1T6eCsKctBQSkSFE4rcx49j72cR45xVkA-large.webp",
+          "alt": "Celebração de F&T na Casa Verona"
+        },
+        {
+          "id": "1L8VaTF3FRHe5KeGIf5OW4-uvo9XSxd9N",
+          "reference": "IMG_8998.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1L8VaTF3FRHe5KeGIf5OW4-uvo9XSxd9N-small.webp",
+          "large": "assets/1L8VaTF3FRHe5KeGIf5OW4-uvo9XSxd9N-large.webp",
+          "alt": "Celebração de F&T na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "d-i",
+      "name": "D&I",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1H7DK63BcJUQxWkejXpoQp_LlGzppcD12",
+        "reference": "IMG_1665.jpg",
+        "width": 1150,
+        "height": 1992,
+        "small": "assets/1H7DK63BcJUQxWkejXpoQp_LlGzppcD12-small.webp",
+        "large": "assets/1H7DK63BcJUQxWkejXpoQp_LlGzppcD12-large.webp",
+        "alt": "Celebração de D&I na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1H7DK63BcJUQxWkejXpoQp_LlGzppcD12",
+          "reference": "IMG_1665.jpg",
+          "width": 1150,
+          "height": 1992,
+          "small": "assets/1H7DK63BcJUQxWkejXpoQp_LlGzppcD12-small.webp",
+          "large": "assets/1H7DK63BcJUQxWkejXpoQp_LlGzppcD12-large.webp",
+          "alt": "Celebração de D&I na Casa Verona"
+        },
+        {
+          "id": "1PmdUe03wi4sjgAZOGcZ8gVAigb1CIk4E",
+          "reference": "IMG_0947.jpg",
+          "width": 1976,
+          "height": 3513,
+          "small": "assets/1PmdUe03wi4sjgAZOGcZ8gVAigb1CIk4E-small.webp",
+          "large": "assets/1PmdUe03wi4sjgAZOGcZ8gVAigb1CIk4E-large.webp",
+          "alt": "Celebração de D&I na Casa Verona"
+        },
+        {
+          "id": "17dfyC69ytTQYrjmOmmXkjsv6bRS4EyKf",
+          "reference": "IMG_1046.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/17dfyC69ytTQYrjmOmmXkjsv6bRS4EyKf-small.webp",
+          "large": "assets/17dfyC69ytTQYrjmOmmXkjsv6bRS4EyKf-large.webp",
+          "alt": "Celebração de D&I na Casa Verona"
+        },
+        {
+          "id": "1OoHxXolJk7ncSHSrFQgfPoKHejH4LC4Q",
+          "reference": "IMG_1143.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1OoHxXolJk7ncSHSrFQgfPoKHejH4LC4Q-small.webp",
+          "large": "assets/1OoHxXolJk7ncSHSrFQgfPoKHejH4LC4Q-large.webp",
+          "alt": "Celebração de D&I na Casa Verona"
+        },
+        {
+          "id": "1hcxUEICGLPUC7iZ5wa5NeUtI7DkoKFNT",
+          "reference": "IMG_1187.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1hcxUEICGLPUC7iZ5wa5NeUtI7DkoKFNT-small.webp",
+          "large": "assets/1hcxUEICGLPUC7iZ5wa5NeUtI7DkoKFNT-large.webp",
+          "alt": "Celebração de D&I na Casa Verona"
+        },
+        {
+          "id": "1v_IEJD8sw0HLVGPGD7NBvEenzvslpIpL",
+          "reference": "IMG_1657.jpg",
+          "width": 1150,
+          "height": 1992,
+          "small": "assets/1v_IEJD8sw0HLVGPGD7NBvEenzvslpIpL-small.webp",
+          "large": "assets/1v_IEJD8sw0HLVGPGD7NBvEenzvslpIpL-large.webp",
+          "alt": "Celebração de D&I na Casa Verona"
+        },
+        {
+          "id": "1wAQkCY3zolIprgtBRJZCIo067Ufsihqj",
+          "reference": "IMG_1660.jpg",
+          "width": 1150,
+          "height": 1992,
+          "small": "assets/1wAQkCY3zolIprgtBRJZCIo067Ufsihqj-small.webp",
+          "large": "assets/1wAQkCY3zolIprgtBRJZCIo067Ufsihqj-large.webp",
+          "alt": "Celebração de D&I na Casa Verona"
+        },
+        {
+          "id": "1alD9Vrm3mH0zT0I-VT33v_bK6hvu_X4M",
+          "reference": "IMG_1664.jpg",
+          "width": 1150,
+          "height": 1992,
+          "small": "assets/1alD9Vrm3mH0zT0I-VT33v_bK6hvu_X4M-small.webp",
+          "large": "assets/1alD9Vrm3mH0zT0I-VT33v_bK6hvu_X4M-large.webp",
+          "alt": "Celebração de D&I na Casa Verona"
+        },
+        {
+          "id": "1XXjFDxGGzZAcrMcZ-VMTDITduHSR-fOQ",
+          "reference": "IMG_1669.jpg",
+          "width": 1150,
+          "height": 1992,
+          "small": "assets/1XXjFDxGGzZAcrMcZ-VMTDITduHSR-fOQ-small.webp",
+          "large": "assets/1XXjFDxGGzZAcrMcZ-VMTDITduHSR-fOQ-large.webp",
+          "alt": "Celebração de D&I na Casa Verona"
+        },
+        {
+          "id": "1X42_K_cjKQWG6z622c7Ts7_90YBtp5Fo",
+          "reference": "IMG_1671.jpg",
+          "width": 1150,
+          "height": 1992,
+          "small": "assets/1X42_K_cjKQWG6z622c7Ts7_90YBtp5Fo-small.webp",
+          "large": "assets/1X42_K_cjKQWG6z622c7Ts7_90YBtp5Fo-large.webp",
+          "alt": "Celebração de D&I na Casa Verona"
+        },
+        {
+          "id": "16eK7gbywfVZFphzjKJ_wJl1PrVa3nqVV",
+          "reference": "IMG_1673.jpg",
+          "width": 1150,
+          "height": 1992,
+          "small": "assets/16eK7gbywfVZFphzjKJ_wJl1PrVa3nqVV-small.webp",
+          "large": "assets/16eK7gbywfVZFphzjKJ_wJl1PrVa3nqVV-large.webp",
+          "alt": "Celebração de D&I na Casa Verona"
+        }
+      ],
+      "video": {
+        "src": "assets/d-i-1LwYFykg91wfYxLRHkQ_BCqUfrrN7ZwHy-web.mp4",
+        "poster": "assets/d-i-1LwYFykg91wfYxLRHkQ_BCqUfrrN7ZwHy-poster.webp"
+      }
+    },
+    {
+      "id": "p-k",
+      "name": "P&K",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1XVEvlBzQfyFoFU26tW7T4XpstwqJ6zGD",
+        "reference": "IMG_8631.jpg",
+        "width": 2960,
+        "height": 3947,
+        "small": "assets/1XVEvlBzQfyFoFU26tW7T4XpstwqJ6zGD-small.webp",
+        "large": "assets/1XVEvlBzQfyFoFU26tW7T4XpstwqJ6zGD-large.webp",
+        "alt": "Celebração de P&K na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1XVEvlBzQfyFoFU26tW7T4XpstwqJ6zGD",
+          "reference": "IMG_8631.jpg",
+          "width": 2960,
+          "height": 3947,
+          "small": "assets/1XVEvlBzQfyFoFU26tW7T4XpstwqJ6zGD-small.webp",
+          "large": "assets/1XVEvlBzQfyFoFU26tW7T4XpstwqJ6zGD-large.webp",
+          "alt": "Celebração de P&K na Casa Verona"
+        },
+        {
+          "id": "1Q22cy--Ya-Gb4ov5PMI6HpAmrURNJlbr",
+          "reference": "IMG_8600.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1Q22cy--Ya-Gb4ov5PMI6HpAmrURNJlbr-small.webp",
+          "large": "assets/1Q22cy--Ya-Gb4ov5PMI6HpAmrURNJlbr-large.webp",
+          "alt": "Celebração de P&K na Casa Verona"
+        },
+        {
+          "id": "1lCZkmSMuZWWScQyZPyvhF2qUXdafM2OK",
+          "reference": "IMG_8618.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1lCZkmSMuZWWScQyZPyvhF2qUXdafM2OK-small.webp",
+          "large": "assets/1lCZkmSMuZWWScQyZPyvhF2qUXdafM2OK-large.webp",
+          "alt": "Celebração de P&K na Casa Verona"
+        },
+        {
+          "id": "14O7Y4ZhNkLTc5xTi2TN3RAWIh4UqAcjZ",
+          "reference": "IMG_8661.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/14O7Y4ZhNkLTc5xTi2TN3RAWIh4UqAcjZ-small.webp",
+          "large": "assets/14O7Y4ZhNkLTc5xTi2TN3RAWIh4UqAcjZ-large.webp",
+          "alt": "Celebração de P&K na Casa Verona"
+        },
+        {
+          "id": "1RuPLymxuXEnaNrrcnutauTypdGBoN-NX",
+          "reference": "IMG_8668.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1RuPLymxuXEnaNrrcnutauTypdGBoN-NX-small.webp",
+          "large": "assets/1RuPLymxuXEnaNrrcnutauTypdGBoN-NX-large.webp",
+          "alt": "Celebração de P&K na Casa Verona"
+        },
+        {
+          "id": "1rZ2A2ZtyPYmkbonZChTfAwnKA_c3QeEU",
+          "reference": "IMG_8671.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1rZ2A2ZtyPYmkbonZChTfAwnKA_c3QeEU-small.webp",
+          "large": "assets/1rZ2A2ZtyPYmkbonZChTfAwnKA_c3QeEU-large.webp",
+          "alt": "Celebração de P&K na Casa Verona"
+        },
+        {
+          "id": "16OEhPi2sm4wa7PttRphtTIlKo3k6tCRK",
+          "reference": "IMG_8674.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/16OEhPi2sm4wa7PttRphtTIlKo3k6tCRK-small.webp",
+          "large": "assets/16OEhPi2sm4wa7PttRphtTIlKo3k6tCRK-large.webp",
+          "alt": "Celebração de P&K na Casa Verona"
+        },
+        {
+          "id": "1KPcUz-kv3svAj-kGYT8zXTtHBJGgcs-v",
+          "reference": "IMG_8676.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1KPcUz-kv3svAj-kGYT8zXTtHBJGgcs-v-small.webp",
+          "large": "assets/1KPcUz-kv3svAj-kGYT8zXTtHBJGgcs-v-large.webp",
+          "alt": "Celebração de P&K na Casa Verona"
+        },
+        {
+          "id": "1Ap9w4A_7i-ZTzfkeZQnI-kmA-YGjdGhj",
+          "reference": "IMG_8687.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1Ap9w4A_7i-ZTzfkeZQnI-kmA-YGjdGhj-small.webp",
+          "large": "assets/1Ap9w4A_7i-ZTzfkeZQnI-kmA-YGjdGhj-large.webp",
+          "alt": "Celebração de P&K na Casa Verona"
+        },
+        {
+          "id": "1bxia7EiyGpCift1HJsa-uRXTOKVn6zo2",
+          "reference": "IMG_8733.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1bxia7EiyGpCift1HJsa-uRXTOKVn6zo2-small.webp",
+          "large": "assets/1bxia7EiyGpCift1HJsa-uRXTOKVn6zo2-large.webp",
+          "alt": "Celebração de P&K na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "j-l",
+      "name": "J&L",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1dSoymJqEVI1yRDY5LW15p9uHpN2wn9xo",
+        "reference": "IMG_3155.jpg",
+        "width": 2268,
+        "height": 4032,
+        "small": "assets/1dSoymJqEVI1yRDY5LW15p9uHpN2wn9xo-small.webp",
+        "large": "assets/1dSoymJqEVI1yRDY5LW15p9uHpN2wn9xo-large.webp",
+        "alt": "Celebração de J&L na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1dSoymJqEVI1yRDY5LW15p9uHpN2wn9xo",
+          "reference": "IMG_3155.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1dSoymJqEVI1yRDY5LW15p9uHpN2wn9xo-small.webp",
+          "large": "assets/1dSoymJqEVI1yRDY5LW15p9uHpN2wn9xo-large.webp",
+          "alt": "Celebração de J&L na Casa Verona"
+        },
+        {
+          "id": "1gkVfsxdJXsPL5V39Co47-uO5jQzzj8Fd",
+          "reference": "IMG_3120.jpg",
+          "width": 2160,
+          "height": 3840,
+          "small": "assets/1gkVfsxdJXsPL5V39Co47-uO5jQzzj8Fd-small.webp",
+          "large": "assets/1gkVfsxdJXsPL5V39Co47-uO5jQzzj8Fd-large.webp",
+          "alt": "Celebração de J&L na Casa Verona"
+        },
+        {
+          "id": "16B_OyyFm3x3ATXGbRxjic3LualSqADNk",
+          "reference": "IMG_3151.jpg",
+          "width": 1974,
+          "height": 3509,
+          "small": "assets/16B_OyyFm3x3ATXGbRxjic3LualSqADNk-small.webp",
+          "large": "assets/16B_OyyFm3x3ATXGbRxjic3LualSqADNk-large.webp",
+          "alt": "Celebração de J&L na Casa Verona"
+        },
+        {
+          "id": "187sJGKWSZl-cgIOxbgAB-NVSNHS9UYWy",
+          "reference": "IMG_3158.jpg",
+          "width": 2160,
+          "height": 3894,
+          "small": "assets/187sJGKWSZl-cgIOxbgAB-NVSNHS9UYWy-small.webp",
+          "large": "assets/187sJGKWSZl-cgIOxbgAB-NVSNHS9UYWy-large.webp",
+          "alt": "Celebração de J&L na Casa Verona"
+        },
+        {
+          "id": "1fvp2fyLgh6JpASZdm4ugrgwbVUp-Xb1B",
+          "reference": "IMG_3161.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1fvp2fyLgh6JpASZdm4ugrgwbVUp-Xb1B-small.webp",
+          "large": "assets/1fvp2fyLgh6JpASZdm4ugrgwbVUp-Xb1B-large.webp",
+          "alt": "Celebração de J&L na Casa Verona"
+        },
+        {
+          "id": "1ZsAz0YwH8-Q9fAjZe60AgjkkXt_GxjJo",
+          "reference": "IMG_3171.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1ZsAz0YwH8-Q9fAjZe60AgjkkXt_GxjJo-small.webp",
+          "large": "assets/1ZsAz0YwH8-Q9fAjZe60AgjkkXt_GxjJo-large.webp",
+          "alt": "Celebração de J&L na Casa Verona"
+        },
+        {
+          "id": "1cSgV14DG554hAeRZAtCBG3RVEOdOyZoz",
+          "reference": "IMG_3237.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1cSgV14DG554hAeRZAtCBG3RVEOdOyZoz-small.webp",
+          "large": "assets/1cSgV14DG554hAeRZAtCBG3RVEOdOyZoz-large.webp",
+          "alt": "Celebração de J&L na Casa Verona"
+        },
+        {
+          "id": "1Mpb1M9Ta3cqkNNiuV4t9j1-3ZpyncaB3",
+          "reference": "IMG_3252.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1Mpb1M9Ta3cqkNNiuV4t9j1-3ZpyncaB3-small.webp",
+          "large": "assets/1Mpb1M9Ta3cqkNNiuV4t9j1-3ZpyncaB3-large.webp",
+          "alt": "Celebração de J&L na Casa Verona"
+        },
+        {
+          "id": "15Nmqr_tPuVSsrkdeytLqeCgdl8Jufi78",
+          "reference": "IMG_3258.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/15Nmqr_tPuVSsrkdeytLqeCgdl8Jufi78-small.webp",
+          "large": "assets/15Nmqr_tPuVSsrkdeytLqeCgdl8Jufi78-large.webp",
+          "alt": "Celebração de J&L na Casa Verona"
+        },
+        {
+          "id": "1CgzgtCv1Qpae5lf4xcOgbolwjkLkXyrp",
+          "reference": "IMG_3265.jpg",
+          "width": 2160,
+          "height": 3840,
+          "small": "assets/1CgzgtCv1Qpae5lf4xcOgbolwjkLkXyrp-small.webp",
+          "large": "assets/1CgzgtCv1Qpae5lf4xcOgbolwjkLkXyrp-large.webp",
+          "alt": "Celebração de J&L na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "c-a",
+      "name": "C&A",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1LnAW456W4S52IAcT1yBxwTihmm1Ngwvy",
+        "reference": "IMG_4292.HEIC",
+        "width": 2268,
+        "height": 4032,
+        "small": "assets/1LnAW456W4S52IAcT1yBxwTihmm1Ngwvy-small.webp",
+        "large": "assets/1LnAW456W4S52IAcT1yBxwTihmm1Ngwvy-large.webp",
+        "alt": "Celebração de C&A na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1LnAW456W4S52IAcT1yBxwTihmm1Ngwvy",
+          "reference": "IMG_4292.HEIC",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1LnAW456W4S52IAcT1yBxwTihmm1Ngwvy-small.webp",
+          "large": "assets/1LnAW456W4S52IAcT1yBxwTihmm1Ngwvy-large.webp",
+          "alt": "Celebração de C&A na Casa Verona"
+        },
+        {
+          "id": "1yYCUWmPiN7IieV22sPI0TUQyeGTZn1he",
+          "reference": "IMG_4165.HEIC",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1yYCUWmPiN7IieV22sPI0TUQyeGTZn1he-small.webp",
+          "large": "assets/1yYCUWmPiN7IieV22sPI0TUQyeGTZn1he-large.webp",
+          "alt": "Celebração de C&A na Casa Verona"
+        },
+        {
+          "id": "1e1zmW31wckN7xUU830gtCVgxgFGbZS88",
+          "reference": "IMG_4201.HEIC",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1e1zmW31wckN7xUU830gtCVgxgFGbZS88-small.webp",
+          "large": "assets/1e1zmW31wckN7xUU830gtCVgxgFGbZS88-large.webp",
+          "alt": "Celebração de C&A na Casa Verona"
+        },
+        {
+          "id": "192Lot2EkKzC_0BPgqLBsVB0Fdo1sxyNe",
+          "reference": "IMG_4202.HEIC",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/192Lot2EkKzC_0BPgqLBsVB0Fdo1sxyNe-small.webp",
+          "large": "assets/192Lot2EkKzC_0BPgqLBsVB0Fdo1sxyNe-large.webp",
+          "alt": "Celebração de C&A na Casa Verona"
+        },
+        {
+          "id": "1ot9Iio1-QcsGwQc_rqvipNFE8MTy-PAJ",
+          "reference": "IMG_4213.HEIC",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1ot9Iio1-QcsGwQc_rqvipNFE8MTy-PAJ-small.webp",
+          "large": "assets/1ot9Iio1-QcsGwQc_rqvipNFE8MTy-PAJ-large.webp",
+          "alt": "Celebração de C&A na Casa Verona"
+        },
+        {
+          "id": "1So1hKH-Fu8Dx-HGVN8LgsEcxs37mvGes",
+          "reference": "IMG_4215.HEIC",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1So1hKH-Fu8Dx-HGVN8LgsEcxs37mvGes-small.webp",
+          "large": "assets/1So1hKH-Fu8Dx-HGVN8LgsEcxs37mvGes-large.webp",
+          "alt": "Celebração de C&A na Casa Verona"
+        },
+        {
+          "id": "1h0bLBRr6qMQQBmG3DfSKHY521QWYZzUV",
+          "reference": "IMG_4229.HEIC",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1h0bLBRr6qMQQBmG3DfSKHY521QWYZzUV-small.webp",
+          "large": "assets/1h0bLBRr6qMQQBmG3DfSKHY521QWYZzUV-large.webp",
+          "alt": "Celebração de C&A na Casa Verona"
+        },
+        {
+          "id": "1SZC-xT5zqh_59cckdktIBm5JYa_oZhw8",
+          "reference": "IMG_4262.HEIC",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1SZC-xT5zqh_59cckdktIBm5JYa_oZhw8-small.webp",
+          "large": "assets/1SZC-xT5zqh_59cckdktIBm5JYa_oZhw8-large.webp",
+          "alt": "Celebração de C&A na Casa Verona"
+        },
+        {
+          "id": "1TDR8DNXQogfziWcwk14hSuf-kXtOD-I7",
+          "reference": "IMG_4293.HEIC",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1TDR8DNXQogfziWcwk14hSuf-kXtOD-I7-small.webp",
+          "large": "assets/1TDR8DNXQogfziWcwk14hSuf-kXtOD-I7-large.webp",
+          "alt": "Celebração de C&A na Casa Verona"
+        },
+        {
+          "id": "1w6WcZzDmay7G4vc1DvFVBs9aUdUFPUy3",
+          "reference": "IMG_4294.HEIC",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1w6WcZzDmay7G4vc1DvFVBs9aUdUFPUy3-small.webp",
+          "large": "assets/1w6WcZzDmay7G4vc1DvFVBs9aUdUFPUy3-large.webp",
+          "alt": "Celebração de C&A na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "evento-assessoria",
+      "name": "Evento Assessoria",
+      "category": "Celebrações",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1ddzPggqxflwKKsr2h99i6p4rKS9IfONU",
+        "reference": "IMG_9490.jpg",
+        "width": 3024,
+        "height": 4032,
+        "small": "assets/1ddzPggqxflwKKsr2h99i6p4rKS9IfONU-small.webp",
+        "large": "assets/1ddzPggqxflwKKsr2h99i6p4rKS9IfONU-large.webp",
+        "alt": "Celebração de Evento Assessoria na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1ddzPggqxflwKKsr2h99i6p4rKS9IfONU",
+          "reference": "IMG_9490.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1ddzPggqxflwKKsr2h99i6p4rKS9IfONU-small.webp",
+          "large": "assets/1ddzPggqxflwKKsr2h99i6p4rKS9IfONU-large.webp",
+          "alt": "Celebração de Evento Assessoria na Casa Verona"
+        },
+        {
+          "id": "1XFBNJRWRf9U3y4SLLX7fjqCjuG313inv",
+          "reference": "IMG_9476.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1XFBNJRWRf9U3y4SLLX7fjqCjuG313inv-small.webp",
+          "large": "assets/1XFBNJRWRf9U3y4SLLX7fjqCjuG313inv-large.webp",
+          "alt": "Celebração de Evento Assessoria na Casa Verona"
+        },
+        {
+          "id": "1jo7lprSMc8rtr1Ky5mtq_h9ssLupLhhZ",
+          "reference": "IMG_9479.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1jo7lprSMc8rtr1Ky5mtq_h9ssLupLhhZ-small.webp",
+          "large": "assets/1jo7lprSMc8rtr1Ky5mtq_h9ssLupLhhZ-large.webp",
+          "alt": "Celebração de Evento Assessoria na Casa Verona"
+        },
+        {
+          "id": "1bLVfRJQNvNkvhVQO_3KSIAhkiyLD6NUg",
+          "reference": "IMG_9482.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1bLVfRJQNvNkvhVQO_3KSIAhkiyLD6NUg-small.webp",
+          "large": "assets/1bLVfRJQNvNkvhVQO_3KSIAhkiyLD6NUg-large.webp",
+          "alt": "Celebração de Evento Assessoria na Casa Verona"
+        },
+        {
+          "id": "1VY8N4W0_LybIji4ZA9tmZM8GOUaNKQUx",
+          "reference": "IMG_9486.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1VY8N4W0_LybIji4ZA9tmZM8GOUaNKQUx-small.webp",
+          "large": "assets/1VY8N4W0_LybIji4ZA9tmZM8GOUaNKQUx-large.webp",
+          "alt": "Celebração de Evento Assessoria na Casa Verona"
+        },
+        {
+          "id": "1Ch-G7oZkRSlzOB97HMPAZ5VShfESf0dL",
+          "reference": "IMG_9488.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1Ch-G7oZkRSlzOB97HMPAZ5VShfESf0dL-small.webp",
+          "large": "assets/1Ch-G7oZkRSlzOB97HMPAZ5VShfESf0dL-large.webp",
+          "alt": "Celebração de Evento Assessoria na Casa Verona"
+        },
+        {
+          "id": "10SdZyzWMHX1ggNznPNI4HkK7TO4u1xQ7",
+          "reference": "IMG_9510.jpg",
+          "width": 2858,
+          "height": 3810,
+          "small": "assets/10SdZyzWMHX1ggNznPNI4HkK7TO4u1xQ7-small.webp",
+          "large": "assets/10SdZyzWMHX1ggNznPNI4HkK7TO4u1xQ7-large.webp",
+          "alt": "Celebração de Evento Assessoria na Casa Verona"
+        },
+        {
+          "id": "1WTwVs9UOSioOJmDbaURxyY96Jpe6yY17",
+          "reference": "IMG_9512.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1WTwVs9UOSioOJmDbaURxyY96Jpe6yY17-small.webp",
+          "large": "assets/1WTwVs9UOSioOJmDbaURxyY96Jpe6yY17-large.webp",
+          "alt": "Celebração de Evento Assessoria na Casa Verona"
+        },
+        {
+          "id": "17SSwjdpohfPvYqziOIM7RBI0QqKXx4rx",
+          "reference": "IMG_9515.jpg",
+          "width": 2874,
+          "height": 3832,
+          "small": "assets/17SSwjdpohfPvYqziOIM7RBI0QqKXx4rx-small.webp",
+          "large": "assets/17SSwjdpohfPvYqziOIM7RBI0QqKXx4rx-large.webp",
+          "alt": "Celebração de Evento Assessoria na Casa Verona"
+        },
+        {
+          "id": "1zGdl-G11LgDmHcIOXBFrHEkw1CzlLtSd",
+          "reference": "IMG_9531.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1zGdl-G11LgDmHcIOXBFrHEkw1CzlLtSd-small.webp",
+          "large": "assets/1zGdl-G11LgDmHcIOXBFrHEkw1CzlLtSd-large.webp",
+          "alt": "Celebração de Evento Assessoria na Casa Verona"
+        },
+        {
+          "id": "1UpMlkS-KUx-CSsj6w-zgmD7XZVltvqG1",
+          "reference": "IMG_9533.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1UpMlkS-KUx-CSsj6w-zgmD7XZVltvqG1-small.webp",
+          "large": "assets/1UpMlkS-KUx-CSsj6w-zgmD7XZVltvqG1-large.webp",
+          "alt": "Celebração de Evento Assessoria na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "h-k",
+      "name": "H&K",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1-qPGxyDf2G3ZUb1Ua2ZCgwfWio2cCghK",
+        "reference": "IMG_8582.jpg",
+        "width": 2268,
+        "height": 4032,
+        "small": "assets/1-qPGxyDf2G3ZUb1Ua2ZCgwfWio2cCghK-small.webp",
+        "large": "assets/1-qPGxyDf2G3ZUb1Ua2ZCgwfWio2cCghK-large.webp",
+        "alt": "Celebração de H&K na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1-qPGxyDf2G3ZUb1Ua2ZCgwfWio2cCghK",
+          "reference": "IMG_8582.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1-qPGxyDf2G3ZUb1Ua2ZCgwfWio2cCghK-small.webp",
+          "large": "assets/1-qPGxyDf2G3ZUb1Ua2ZCgwfWio2cCghK-large.webp",
+          "alt": "Celebração de H&K na Casa Verona"
+        },
+        {
+          "id": "1Uly1e1HpE1fEJTwgl1zne-vtkn9aq9qW",
+          "reference": "IMG_8570.jpg",
+          "width": 2121,
+          "height": 3770,
+          "small": "assets/1Uly1e1HpE1fEJTwgl1zne-vtkn9aq9qW-small.webp",
+          "large": "assets/1Uly1e1HpE1fEJTwgl1zne-vtkn9aq9qW-large.webp",
+          "alt": "Celebração de H&K na Casa Verona"
+        },
+        {
+          "id": "1LxQmBRpXhG3mJHd2LewHe04NsPGbhRq8",
+          "reference": "IMG_8576.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1LxQmBRpXhG3mJHd2LewHe04NsPGbhRq8-small.webp",
+          "large": "assets/1LxQmBRpXhG3mJHd2LewHe04NsPGbhRq8-large.webp",
+          "alt": "Celebração de H&K na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "j-p",
+      "name": "J&P",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1ii9C_VhiOfNjoMCPzVob52580IknIdkf",
+        "reference": "copy_7C477D2B-9265-4BC0-8D4A-09971E216150.jpeg",
+        "width": 1180,
+        "height": 2096,
+        "small": "assets/1ii9C_VhiOfNjoMCPzVob52580IknIdkf-small.webp",
+        "large": "assets/1ii9C_VhiOfNjoMCPzVob52580IknIdkf-large.webp",
+        "alt": "Celebração de J&P na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1ii9C_VhiOfNjoMCPzVob52580IknIdkf",
+          "reference": "copy_7C477D2B-9265-4BC0-8D4A-09971E216150.jpeg",
+          "width": 1180,
+          "height": 2096,
+          "small": "assets/1ii9C_VhiOfNjoMCPzVob52580IknIdkf-small.webp",
+          "large": "assets/1ii9C_VhiOfNjoMCPzVob52580IknIdkf-large.webp",
+          "alt": "Celebração de J&P na Casa Verona"
+        },
+        {
+          "id": "1ot0ECthVWt163GaGSDmUGPLL2gBtTOip",
+          "reference": "copy_58F47808-68EA-4C7D-A00C-ED316941FBAB.jpeg",
+          "width": 1180,
+          "height": 2096,
+          "small": "assets/1ot0ECthVWt163GaGSDmUGPLL2gBtTOip-small.webp",
+          "large": "assets/1ot0ECthVWt163GaGSDmUGPLL2gBtTOip-large.webp",
+          "alt": "Celebração de J&P na Casa Verona"
+        },
+        {
+          "id": "1PQbXrDnxMoTS9d4MFERZw-3lVgKENYnU",
+          "reference": "copy_C5FC580D-E35F-4457-850A-3C3F6FE166D4.jpeg",
+          "width": 1180,
+          "height": 2096,
+          "small": "assets/1PQbXrDnxMoTS9d4MFERZw-3lVgKENYnU-small.webp",
+          "large": "assets/1PQbXrDnxMoTS9d4MFERZw-3lVgKENYnU-large.webp",
+          "alt": "Celebração de J&P na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "m-r",
+      "name": "M&R",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1ZOLcZzIabtN-Dh5LJSXciRr793QXe7q3",
+        "reference": "copy_244275F2-EC83-4D71-AC95-999BCB6ADC88.jpeg",
+        "width": 2268,
+        "height": 4032,
+        "small": "assets/1ZOLcZzIabtN-Dh5LJSXciRr793QXe7q3-small.webp",
+        "large": "assets/1ZOLcZzIabtN-Dh5LJSXciRr793QXe7q3-large.webp",
+        "alt": "Celebração de M&R na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1ZOLcZzIabtN-Dh5LJSXciRr793QXe7q3",
+          "reference": "copy_244275F2-EC83-4D71-AC95-999BCB6ADC88.jpeg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1ZOLcZzIabtN-Dh5LJSXciRr793QXe7q3-small.webp",
+          "large": "assets/1ZOLcZzIabtN-Dh5LJSXciRr793QXe7q3-large.webp",
+          "alt": "Celebração de M&R na Casa Verona"
+        },
+        {
+          "id": "1YHtFkNVl1A4dMPskambjCG5ruqIfmUy9",
+          "reference": "IMG_8849.PNG",
+          "width": 1179,
+          "height": 2087,
+          "small": "assets/1YHtFkNVl1A4dMPskambjCG5ruqIfmUy9-small.webp",
+          "large": "assets/1YHtFkNVl1A4dMPskambjCG5ruqIfmUy9-large.webp",
+          "alt": "Celebração de M&R na Casa Verona"
+        },
+        {
+          "id": "12H0Os-Mv0eWHqxMYxaRgaLYXVQ1GyGwy",
+          "reference": "IMG_8879.PNG",
+          "width": 1179,
+          "height": 2556,
+          "small": "assets/12H0Os-Mv0eWHqxMYxaRgaLYXVQ1GyGwy-small.webp",
+          "large": "assets/12H0Os-Mv0eWHqxMYxaRgaLYXVQ1GyGwy-large.webp",
+          "alt": "Celebração de M&R na Casa Verona"
+        },
+        {
+          "id": "1UcUXj7ky5z-onoXMjxappiRyoB4gDnWk",
+          "reference": "copy_036A59AE-E985-49E9-9567-0A02E241E676.jpeg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1UcUXj7ky5z-onoXMjxappiRyoB4gDnWk-small.webp",
+          "large": "assets/1UcUXj7ky5z-onoXMjxappiRyoB4gDnWk-large.webp",
+          "alt": "Celebração de M&R na Casa Verona"
+        },
+        {
+          "id": "1sCmgDIvFZvX-p_yRP1T84MjVdmVTq__B",
+          "reference": "copy_03BD4C9C-9172-465B-8E63-4EEFC435C86E.jpeg",
+          "width": 1180,
+          "height": 2034,
+          "small": "assets/1sCmgDIvFZvX-p_yRP1T84MjVdmVTq__B-small.webp",
+          "large": "assets/1sCmgDIvFZvX-p_yRP1T84MjVdmVTq__B-large.webp",
+          "alt": "Celebração de M&R na Casa Verona"
+        },
+        {
+          "id": "13BfXYJmyfMZwwbWxQTqEeoFLm81Rdg-N",
+          "reference": "copy_2289DD14-3896-480D-BD3F-95FCE8557CBC.jpeg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/13BfXYJmyfMZwwbWxQTqEeoFLm81Rdg-N-small.webp",
+          "large": "assets/13BfXYJmyfMZwwbWxQTqEeoFLm81Rdg-N-large.webp",
+          "alt": "Celebração de M&R na Casa Verona"
+        },
+        {
+          "id": "18OM19jHMv6YDEy28CHyYu4Ce_AHh_4WU",
+          "reference": "copy_6439C422-4136-4EAE-B329-619273665AAB.jpeg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/18OM19jHMv6YDEy28CHyYu4Ce_AHh_4WU-small.webp",
+          "large": "assets/18OM19jHMv6YDEy28CHyYu4Ce_AHh_4WU-large.webp",
+          "alt": "Celebração de M&R na Casa Verona"
+        },
+        {
+          "id": "1DoPUgywCMMyjdB7t6jolrrzKxGfVevET",
+          "reference": "copy_7F8E3D02-D278-4412-AB14-61B8DA93E88A.jpeg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1DoPUgywCMMyjdB7t6jolrrzKxGfVevET-small.webp",
+          "large": "assets/1DoPUgywCMMyjdB7t6jolrrzKxGfVevET-large.webp",
+          "alt": "Celebração de M&R na Casa Verona"
+        },
+        {
+          "id": "1SFz_R1rUJ6wRcSVpOYy1sEZdE4EjDMso",
+          "reference": "copy_9149C90D-9B66-43BF-B549-79D09FE9EDD4.jpeg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1SFz_R1rUJ6wRcSVpOYy1sEZdE4EjDMso-small.webp",
+          "large": "assets/1SFz_R1rUJ6wRcSVpOYy1sEZdE4EjDMso-large.webp",
+          "alt": "Celebração de M&R na Casa Verona"
+        },
+        {
+          "id": "1_c8gUa-k0oC6Tr8mSMWBsEE92GLvTbAa",
+          "reference": "copy_B51FC800-AC4F-4B9C-9519-BF93097FDBCA.jpeg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1_c8gUa-k0oC6Tr8mSMWBsEE92GLvTbAa-small.webp",
+          "large": "assets/1_c8gUa-k0oC6Tr8mSMWBsEE92GLvTbAa-large.webp",
+          "alt": "Celebração de M&R na Casa Verona"
+        },
+        {
+          "id": "1pPSpjwq9kby5Fp_r6yagsTnuvUf0btuT",
+          "reference": "copy_C7C61137-40E1-4AB2-9D1F-DD959A3ECB30.jpeg",
+          "width": 1180,
+          "height": 1818,
+          "small": "assets/1pPSpjwq9kby5Fp_r6yagsTnuvUf0btuT-small.webp",
+          "large": "assets/1pPSpjwq9kby5Fp_r6yagsTnuvUf0btuT-large.webp",
+          "alt": "Celebração de M&R na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "n-a",
+      "name": "N&A",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1iVVvYiG6RdIzRXkjAU34zSF-ZBMpU1IH",
+        "reference": "copy_29740FAE-45D9-437A-B8E5-913BBAF15C59.jpeg",
+        "width": 2268,
+        "height": 4032,
+        "small": "assets/1iVVvYiG6RdIzRXkjAU34zSF-ZBMpU1IH-small.webp",
+        "large": "assets/1iVVvYiG6RdIzRXkjAU34zSF-ZBMpU1IH-large.webp",
+        "alt": "Celebração de N&A na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1iVVvYiG6RdIzRXkjAU34zSF-ZBMpU1IH",
+          "reference": "copy_29740FAE-45D9-437A-B8E5-913BBAF15C59.jpeg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1iVVvYiG6RdIzRXkjAU34zSF-ZBMpU1IH-small.webp",
+          "large": "assets/1iVVvYiG6RdIzRXkjAU34zSF-ZBMpU1IH-large.webp",
+          "alt": "Celebração de N&A na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "noivado-k-b",
+      "name": "Noivado K&B",
+      "category": "Celebrações",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1USJYLRmOOy7AmnEmKxCw01PDghh0r4HB",
+        "reference": "IMG_9412.jpg",
+        "width": 3024,
+        "height": 4032,
+        "small": "assets/1USJYLRmOOy7AmnEmKxCw01PDghh0r4HB-small.webp",
+        "large": "assets/1USJYLRmOOy7AmnEmKxCw01PDghh0r4HB-large.webp",
+        "alt": "Celebração de Noivado K&B na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1USJYLRmOOy7AmnEmKxCw01PDghh0r4HB",
+          "reference": "IMG_9412.jpg",
+          "width": 3024,
+          "height": 4032,
+          "small": "assets/1USJYLRmOOy7AmnEmKxCw01PDghh0r4HB-small.webp",
+          "large": "assets/1USJYLRmOOy7AmnEmKxCw01PDghh0r4HB-large.webp",
+          "alt": "Celebração de Noivado K&B na Casa Verona"
+        },
+        {
+          "id": "1tAPT_IOFhx3owB6duVEzYk7AV0Qn6_f2",
+          "reference": "IMG_9402.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1tAPT_IOFhx3owB6duVEzYk7AV0Qn6_f2-small.webp",
+          "large": "assets/1tAPT_IOFhx3owB6duVEzYk7AV0Qn6_f2-large.webp",
+          "alt": "Celebração de Noivado K&B na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "p-j",
+      "name": "P&J",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1sCoFplp-ufnLZ6ZAGrsa7-Tir2E3sITM",
+        "reference": "IMG_4880.jpg",
+        "width": 2268,
+        "height": 4032,
+        "small": "assets/1sCoFplp-ufnLZ6ZAGrsa7-Tir2E3sITM-small.webp",
+        "large": "assets/1sCoFplp-ufnLZ6ZAGrsa7-Tir2E3sITM-large.webp",
+        "alt": "Celebração de P&J na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1sCoFplp-ufnLZ6ZAGrsa7-Tir2E3sITM",
+          "reference": "IMG_4880.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1sCoFplp-ufnLZ6ZAGrsa7-Tir2E3sITM-small.webp",
+          "large": "assets/1sCoFplp-ufnLZ6ZAGrsa7-Tir2E3sITM-large.webp",
+          "alt": "Celebração de P&J na Casa Verona"
+        },
+        {
+          "id": "1ZnNF9KdGYoZn0U3PV61cdkYuCldjGoO8",
+          "reference": "IMG_4813.jpg",
+          "width": 2226,
+          "height": 3859,
+          "small": "assets/1ZnNF9KdGYoZn0U3PV61cdkYuCldjGoO8-small.webp",
+          "large": "assets/1ZnNF9KdGYoZn0U3PV61cdkYuCldjGoO8-large.webp",
+          "alt": "Celebração de P&J na Casa Verona"
+        },
+        {
+          "id": "1-dXecc5OZtx2moupRbUqHrpvg0NKzNLg",
+          "reference": "IMG_4877.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1-dXecc5OZtx2moupRbUqHrpvg0NKzNLg-small.webp",
+          "large": "assets/1-dXecc5OZtx2moupRbUqHrpvg0NKzNLg-large.webp",
+          "alt": "Celebração de P&J na Casa Verona"
+        },
+        {
+          "id": "18HcQ2WS6jmBXatA8udTa8HUL_rPZc-3y",
+          "reference": "IMG_4878.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/18HcQ2WS6jmBXatA8udTa8HUL_rPZc-3y-small.webp",
+          "large": "assets/18HcQ2WS6jmBXatA8udTa8HUL_rPZc-3y-large.webp",
+          "alt": "Celebração de P&J na Casa Verona"
+        },
+        {
+          "id": "1F7I80joz5HFmSp0a0YfqBJQ3E5BN5VFW",
+          "reference": "IMG_4879.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1F7I80joz5HFmSp0a0YfqBJQ3E5BN5VFW-small.webp",
+          "large": "assets/1F7I80joz5HFmSp0a0YfqBJQ3E5BN5VFW-large.webp",
+          "alt": "Celebração de P&J na Casa Verona"
+        },
+        {
+          "id": "11A-C731RaiI5Rxy3EmQ_dpNl2zpnFJ1L",
+          "reference": "IMG_4881.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/11A-C731RaiI5Rxy3EmQ_dpNl2zpnFJ1L-small.webp",
+          "large": "assets/11A-C731RaiI5Rxy3EmQ_dpNl2zpnFJ1L-large.webp",
+          "alt": "Celebração de P&J na Casa Verona"
+        },
+        {
+          "id": "14V9v8207BOeNQha-1YoWtZfEnH_Bjm2t",
+          "reference": "IMG_4882.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/14V9v8207BOeNQha-1YoWtZfEnH_Bjm2t-small.webp",
+          "large": "assets/14V9v8207BOeNQha-1YoWtZfEnH_Bjm2t-large.webp",
+          "alt": "Celebração de P&J na Casa Verona"
+        },
+        {
+          "id": "1ouoAP_d4oxmg-2d-hq_NDYf7MuKbuoUp",
+          "reference": "IMG_4884.jpg",
+          "width": 1973,
+          "height": 3508,
+          "small": "assets/1ouoAP_d4oxmg-2d-hq_NDYf7MuKbuoUp-small.webp",
+          "large": "assets/1ouoAP_d4oxmg-2d-hq_NDYf7MuKbuoUp-large.webp",
+          "alt": "Celebração de P&J na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "s-a",
+      "name": "S&A",
+      "category": "Mini weddings",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "11q5pPfQGGbVvXpHcVSC-i_kXSsBQDRlQ",
+        "reference": "copy_68E507ED-FED1-48A8-A013-0ED414C37FC2.jpeg",
+        "width": 2268,
+        "height": 4032,
+        "small": "assets/11q5pPfQGGbVvXpHcVSC-i_kXSsBQDRlQ-small.webp",
+        "large": "assets/11q5pPfQGGbVvXpHcVSC-i_kXSsBQDRlQ-large.webp",
+        "alt": "Celebração de S&A na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "11q5pPfQGGbVvXpHcVSC-i_kXSsBQDRlQ",
+          "reference": "copy_68E507ED-FED1-48A8-A013-0ED414C37FC2.jpeg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/11q5pPfQGGbVvXpHcVSC-i_kXSsBQDRlQ-small.webp",
+          "large": "assets/11q5pPfQGGbVvXpHcVSC-i_kXSsBQDRlQ-large.webp",
+          "alt": "Celebração de S&A na Casa Verona"
+        },
+        {
+          "id": "1LczsqRWItFZXsDV3GsWO8gKtyuqgHJpk",
+          "reference": "copy_590A6117-45EF-4B40-952F-F098F0D4ED67.jpeg",
+          "width": 1180,
+          "height": 2096,
+          "small": "assets/1LczsqRWItFZXsDV3GsWO8gKtyuqgHJpk-small.webp",
+          "large": "assets/1LczsqRWItFZXsDV3GsWO8gKtyuqgHJpk-large.webp",
+          "alt": "Celebração de S&A na Casa Verona"
+        },
+        {
+          "id": "1oUXrwcOf71zWCn10AtCkMZwQmF0q7yki",
+          "reference": "copy_DBC63189-BE2A-4570-85B7-AACC3F347DF7.jpeg",
+          "width": 1520,
+          "height": 3286,
+          "small": "assets/1oUXrwcOf71zWCn10AtCkMZwQmF0q7yki-small.webp",
+          "large": "assets/1oUXrwcOf71zWCn10AtCkMZwQmF0q7yki-large.webp",
+          "alt": "Celebração de S&A na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "sao-joao-prefeitura",
+      "name": "São João prefeitura",
+      "category": "Celebrações",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1lUr1JYeo41KkpcXboqEKklD_YWDxwhUx",
+        "reference": "IMG_4772.jpg",
+        "width": 3264,
+        "height": 4928,
+        "small": "assets/1lUr1JYeo41KkpcXboqEKklD_YWDxwhUx-small.webp",
+        "large": "assets/1lUr1JYeo41KkpcXboqEKklD_YWDxwhUx-large.webp",
+        "alt": "Celebração de São João prefeitura na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1lUr1JYeo41KkpcXboqEKklD_YWDxwhUx",
+          "reference": "IMG_4772.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1lUr1JYeo41KkpcXboqEKklD_YWDxwhUx-small.webp",
+          "large": "assets/1lUr1JYeo41KkpcXboqEKklD_YWDxwhUx-large.webp",
+          "alt": "Celebração de São João prefeitura na Casa Verona"
+        },
+        {
+          "id": "1XE2juH8i6WQ0HhMwXEZmMYJZVl9JVPpC",
+          "reference": "IMG_4484.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1XE2juH8i6WQ0HhMwXEZmMYJZVl9JVPpC-small.webp",
+          "large": "assets/1XE2juH8i6WQ0HhMwXEZmMYJZVl9JVPpC-large.webp",
+          "alt": "Celebração de São João prefeitura na Casa Verona"
+        },
+        {
+          "id": "1EMSKVhzPglsLpYp0B6qaVusL-Q7k-GF1",
+          "reference": "IMG_4502.jpg",
+          "width": 4928,
+          "height": 3264,
+          "small": "assets/1EMSKVhzPglsLpYp0B6qaVusL-Q7k-GF1-small.webp",
+          "large": "assets/1EMSKVhzPglsLpYp0B6qaVusL-Q7k-GF1-large.webp",
+          "alt": "Celebração de São João prefeitura na Casa Verona"
+        },
+        {
+          "id": "1pV6fsek8Ymta0GFc_dpqxY7Y30NZptZ0",
+          "reference": "IMG_4610.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1pV6fsek8Ymta0GFc_dpqxY7Y30NZptZ0-small.webp",
+          "large": "assets/1pV6fsek8Ymta0GFc_dpqxY7Y30NZptZ0-large.webp",
+          "alt": "Celebração de São João prefeitura na Casa Verona"
+        },
+        {
+          "id": "1bqs48YBnJPPZEeQuAJWtfZ1bd2QrdVAq",
+          "reference": "IMG_4672.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1bqs48YBnJPPZEeQuAJWtfZ1bd2QrdVAq-small.webp",
+          "large": "assets/1bqs48YBnJPPZEeQuAJWtfZ1bd2QrdVAq-large.webp",
+          "alt": "Celebração de São João prefeitura na Casa Verona"
+        },
+        {
+          "id": "1zFpW__D54VBmEqQ7-8cEZhYavgQ3TRhf",
+          "reference": "IMG_4703.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1zFpW__D54VBmEqQ7-8cEZhYavgQ3TRhf-small.webp",
+          "large": "assets/1zFpW__D54VBmEqQ7-8cEZhYavgQ3TRhf-large.webp",
+          "alt": "Celebração de São João prefeitura na Casa Verona"
+        },
+        {
+          "id": "1B4f8nkgHXELrIO7EPvzsIUmuXY6GZVCJ",
+          "reference": "IMG_4784.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1B4f8nkgHXELrIO7EPvzsIUmuXY6GZVCJ-small.webp",
+          "large": "assets/1B4f8nkgHXELrIO7EPvzsIUmuXY6GZVCJ-large.webp",
+          "alt": "Celebração de São João prefeitura na Casa Verona"
+        },
+        {
+          "id": "14z2YEkAeGQjpsYMjvN5Mvqt23EgjA57A",
+          "reference": "IMG_4796.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/14z2YEkAeGQjpsYMjvN5Mvqt23EgjA57A-small.webp",
+          "large": "assets/14z2YEkAeGQjpsYMjvN5Mvqt23EgjA57A-large.webp",
+          "alt": "Celebração de São João prefeitura na Casa Verona"
+        },
+        {
+          "id": "1Cr1BlUKBudW1FLC_udtwf-eYMS4nSdht",
+          "reference": "IMG_4858.jpg",
+          "width": 4928,
+          "height": 3264,
+          "small": "assets/1Cr1BlUKBudW1FLC_udtwf-eYMS4nSdht-small.webp",
+          "large": "assets/1Cr1BlUKBudW1FLC_udtwf-eYMS4nSdht-large.webp",
+          "alt": "Celebração de São João prefeitura na Casa Verona"
+        },
+        {
+          "id": "1cxkE6UuwfBh0ze4MmvSIc42DHeep6m4U",
+          "reference": "IMG_4888.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1cxkE6UuwfBh0ze4MmvSIc42DHeep6m4U-small.webp",
+          "large": "assets/1cxkE6UuwfBh0ze4MmvSIc42DHeep6m4U-large.webp",
+          "alt": "Celebração de São João prefeitura na Casa Verona"
+        },
+        {
+          "id": "11ox8oju5XJKUVFrGoAVcPkLpX3AwJ6Yk",
+          "reference": "IMG_4901.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/11ox8oju5XJKUVFrGoAVcPkLpX3AwJ6Yk-small.webp",
+          "large": "assets/11ox8oju5XJKUVFrGoAVcPkLpX3AwJ6Yk-large.webp",
+          "alt": "Celebração de São João prefeitura na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "sao-joao-sebrae",
+      "name": "São João sebrae",
+      "category": "Celebrações",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1yMwxvgUrIi6pPMjjcaseuJPM2AYVerr5",
+        "reference": "IMG_4614.jpg",
+        "width": 3264,
+        "height": 4928,
+        "small": "assets/1yMwxvgUrIi6pPMjjcaseuJPM2AYVerr5-small.webp",
+        "large": "assets/1yMwxvgUrIi6pPMjjcaseuJPM2AYVerr5-large.webp",
+        "alt": "Celebração de São João sebrae na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1yMwxvgUrIi6pPMjjcaseuJPM2AYVerr5",
+          "reference": "IMG_4614.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1yMwxvgUrIi6pPMjjcaseuJPM2AYVerr5-small.webp",
+          "large": "assets/1yMwxvgUrIi6pPMjjcaseuJPM2AYVerr5-large.webp",
+          "alt": "Celebração de São João sebrae na Casa Verona"
+        },
+        {
+          "id": "1TPFp_lDqFJkQ6SNecBmaXOdqzwo-mJ4a",
+          "reference": "IMG_3234.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1TPFp_lDqFJkQ6SNecBmaXOdqzwo-mJ4a-small.webp",
+          "large": "assets/1TPFp_lDqFJkQ6SNecBmaXOdqzwo-mJ4a-large.webp",
+          "alt": "Celebração de São João sebrae na Casa Verona"
+        },
+        {
+          "id": "1zizK869lA1_JxfsZpDASOZJAxf6aGc2q",
+          "reference": "IMG_3243.jpg",
+          "width": 2268,
+          "height": 4032,
+          "small": "assets/1zizK869lA1_JxfsZpDASOZJAxf6aGc2q-small.webp",
+          "large": "assets/1zizK869lA1_JxfsZpDASOZJAxf6aGc2q-large.webp",
+          "alt": "Celebração de São João sebrae na Casa Verona"
+        },
+        {
+          "id": "11vPIwIpD2MufhNwoF03rQcKnZZ_jkrk5",
+          "reference": "IMG_4474.jpg",
+          "width": 4928,
+          "height": 3264,
+          "small": "assets/11vPIwIpD2MufhNwoF03rQcKnZZ_jkrk5-small.webp",
+          "large": "assets/11vPIwIpD2MufhNwoF03rQcKnZZ_jkrk5-large.webp",
+          "alt": "Celebração de São João sebrae na Casa Verona"
+        },
+        {
+          "id": "1nWjh8nOpfDEG2nmVEuJDX_wRhKO5AJFR",
+          "reference": "IMG_4526.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1nWjh8nOpfDEG2nmVEuJDX_wRhKO5AJFR-small.webp",
+          "large": "assets/1nWjh8nOpfDEG2nmVEuJDX_wRhKO5AJFR-large.webp",
+          "alt": "Celebração de São João sebrae na Casa Verona"
+        },
+        {
+          "id": "1dJuhMyHvvts4Le6H7tB3Vxcp4b011SA9",
+          "reference": "IMG_4580.jpg",
+          "width": 3127,
+          "height": 4721,
+          "small": "assets/1dJuhMyHvvts4Le6H7tB3Vxcp4b011SA9-small.webp",
+          "large": "assets/1dJuhMyHvvts4Le6H7tB3Vxcp4b011SA9-large.webp",
+          "alt": "Celebração de São João sebrae na Casa Verona"
+        },
+        {
+          "id": "1o071wWB2aSPXlTIshBZuv2LJ3UV9lt6N",
+          "reference": "IMG_4642.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1o071wWB2aSPXlTIshBZuv2LJ3UV9lt6N-small.webp",
+          "large": "assets/1o071wWB2aSPXlTIshBZuv2LJ3UV9lt6N-large.webp",
+          "alt": "Celebração de São João sebrae na Casa Verona"
+        },
+        {
+          "id": "1X-k8_2DYCVeSYaU1GjxJJWqKiezrWUK2",
+          "reference": "IMG_4680.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1X-k8_2DYCVeSYaU1GjxJJWqKiezrWUK2-small.webp",
+          "large": "assets/1X-k8_2DYCVeSYaU1GjxJJWqKiezrWUK2-large.webp",
+          "alt": "Celebração de São João sebrae na Casa Verona"
+        },
+        {
+          "id": "19CsM_yzFsWo9suQ40OgDUH2orUakho36",
+          "reference": "IMG_4730.jpg",
+          "width": 4928,
+          "height": 3264,
+          "small": "assets/19CsM_yzFsWo9suQ40OgDUH2orUakho36-small.webp",
+          "large": "assets/19CsM_yzFsWo9suQ40OgDUH2orUakho36-large.webp",
+          "alt": "Celebração de São João sebrae na Casa Verona"
+        },
+        {
+          "id": "1c8CVbxyEGNU8qDdpSDzk533s4zUxesRx",
+          "reference": "IMG_4848.jpg",
+          "width": 4928,
+          "height": 3264,
+          "small": "assets/1c8CVbxyEGNU8qDdpSDzk533s4zUxesRx-small.webp",
+          "large": "assets/1c8CVbxyEGNU8qDdpSDzk533s4zUxesRx-large.webp",
+          "alt": "Celebração de São João sebrae na Casa Verona"
+        },
+        {
+          "id": "1otKAAMxym4Lce9zmOurS8yXVKVWkn2Wc",
+          "reference": "IMG_4878.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1otKAAMxym4Lce9zmOurS8yXVKVWkn2Wc-small.webp",
+          "large": "assets/1otKAAMxym4Lce9zmOurS8yXVKVWkn2Wc-large.webp",
+          "alt": "Celebração de São João sebrae na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "thati-44-anos",
+      "name": "Thati 44 anos",
+      "category": "Celebrações",
+      "description": "Uma seleção de momentos e detalhes desta celebração na Casa Verona. Salve as fotos que combinam com o que vocês imaginam.",
+      "cover": {
+        "id": "1MkJ6EYTc5MAoa66EzCegPWnfyUvQx_eL",
+        "reference": "IMG_0225.jpg",
+        "width": 3264,
+        "height": 4928,
+        "small": "assets/1MkJ6EYTc5MAoa66EzCegPWnfyUvQx_eL-small.webp",
+        "large": "assets/1MkJ6EYTc5MAoa66EzCegPWnfyUvQx_eL-large.webp",
+        "alt": "Celebração de Thati 44 anos na Casa Verona"
+      },
+      "photos": [
+        {
+          "id": "1MkJ6EYTc5MAoa66EzCegPWnfyUvQx_eL",
+          "reference": "IMG_0225.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1MkJ6EYTc5MAoa66EzCegPWnfyUvQx_eL-small.webp",
+          "large": "assets/1MkJ6EYTc5MAoa66EzCegPWnfyUvQx_eL-large.webp",
+          "alt": "Celebração de Thati 44 anos na Casa Verona"
+        },
+        {
+          "id": "1sKLWOBKE7idD5od-ZRipfCOzIUTHwHR2",
+          "reference": "IMG_0049.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1sKLWOBKE7idD5od-ZRipfCOzIUTHwHR2-small.webp",
+          "large": "assets/1sKLWOBKE7idD5od-ZRipfCOzIUTHwHR2-large.webp",
+          "alt": "Celebração de Thati 44 anos na Casa Verona"
+        },
+        {
+          "id": "1MJaLCVGiCT78EPel7R7KH3HrKbxlcOL3",
+          "reference": "IMG_0089.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1MJaLCVGiCT78EPel7R7KH3HrKbxlcOL3-small.webp",
+          "large": "assets/1MJaLCVGiCT78EPel7R7KH3HrKbxlcOL3-large.webp",
+          "alt": "Celebração de Thati 44 anos na Casa Verona"
+        },
+        {
+          "id": "1M-g4ou9dbEjjaq8KiYLwl9MMAeHR81bm",
+          "reference": "IMG_0189.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1M-g4ou9dbEjjaq8KiYLwl9MMAeHR81bm-small.webp",
+          "large": "assets/1M-g4ou9dbEjjaq8KiYLwl9MMAeHR81bm-large.webp",
+          "alt": "Celebração de Thati 44 anos na Casa Verona"
+        },
+        {
+          "id": "1w3vJTfD3ax9GaPrNueQm3EMiq62wRtq8",
+          "reference": "IMG_0197.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1w3vJTfD3ax9GaPrNueQm3EMiq62wRtq8-small.webp",
+          "large": "assets/1w3vJTfD3ax9GaPrNueQm3EMiq62wRtq8-large.webp",
+          "alt": "Celebração de Thati 44 anos na Casa Verona"
+        },
+        {
+          "id": "1FW-6mrvdinlnuBiKPFI5KkrLYjvajChO",
+          "reference": "IMG_0209.jpg",
+          "width": 4928,
+          "height": 3264,
+          "small": "assets/1FW-6mrvdinlnuBiKPFI5KkrLYjvajChO-small.webp",
+          "large": "assets/1FW-6mrvdinlnuBiKPFI5KkrLYjvajChO-large.webp",
+          "alt": "Celebração de Thati 44 anos na Casa Verona"
+        },
+        {
+          "id": "1XEuxCdY66Jf-Int3A8TlDOES6Vs1PT7Y",
+          "reference": "IMG_0263.jpg",
+          "width": 1497,
+          "height": 2260,
+          "small": "assets/1XEuxCdY66Jf-Int3A8TlDOES6Vs1PT7Y-small.webp",
+          "large": "assets/1XEuxCdY66Jf-Int3A8TlDOES6Vs1PT7Y-large.webp",
+          "alt": "Celebração de Thati 44 anos na Casa Verona"
+        },
+        {
+          "id": "1MDj2xr18C0oTFiIw3gFxK7wX2bNjn6o8",
+          "reference": "IMG_0326.jpg",
+          "width": 4928,
+          "height": 3264,
+          "small": "assets/1MDj2xr18C0oTFiIw3gFxK7wX2bNjn6o8-small.webp",
+          "large": "assets/1MDj2xr18C0oTFiIw3gFxK7wX2bNjn6o8-large.webp",
+          "alt": "Celebração de Thati 44 anos na Casa Verona"
+        },
+        {
+          "id": "1VnpegIB0c8XGnnEH5XrnHyHYmUh1Tyzu",
+          "reference": "IMG_9833.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1VnpegIB0c8XGnnEH5XrnHyHYmUh1Tyzu-small.webp",
+          "large": "assets/1VnpegIB0c8XGnnEH5XrnHyHYmUh1Tyzu-large.webp",
+          "alt": "Celebração de Thati 44 anos na Casa Verona"
+        },
+        {
+          "id": "1FtWOCxN4XF_HhqNUHX2mCWKSVpUiGZaU",
+          "reference": "IMG_9862.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/1FtWOCxN4XF_HhqNUHX2mCWKSVpUiGZaU-small.webp",
+          "large": "assets/1FtWOCxN4XF_HhqNUHX2mCWKSVpUiGZaU-large.webp",
+          "alt": "Celebração de Thati 44 anos na Casa Verona"
+        },
+        {
+          "id": "16WRkFtgDUtvNsy2mv4ZoGpg4JYDmLIu1",
+          "reference": "IMG_9901.jpg",
+          "width": 3264,
+          "height": 4928,
+          "small": "assets/16WRkFtgDUtvNsy2mv4ZoGpg4JYDmLIu1-small.webp",
+          "large": "assets/16WRkFtgDUtvNsy2mv4ZoGpg4JYDmLIu1-large.webp",
+          "alt": "Celebração de Thati 44 anos na Casa Verona"
+        }
+      ]
+    },
+    {
+      "id": "mavi-magalhaes",
+      "name": "Mavi Magalhães",
+      "category": "Celebrações",
+      "description": "Veja esta celebração em vídeo.",
+      "cover": {
+        "id": "1bctwbMuHRqy1C4RCZXbL5TK2HqSaqyVT-poster",
+        "reference": "vídeo",
+        "width": 720,
+        "height": 1280,
+        "small": "assets/mavi-magalhaes-1bctwbMuHRqy1C4RCZXbL5TK2HqSaqyVT-poster.webp",
+        "large": "assets/mavi-magalhaes-1bctwbMuHRqy1C4RCZXbL5TK2HqSaqyVT-poster.webp",
+        "alt": "Celebração de Mavi Magalhães"
+      },
+      "photos": [],
+      "video": {
+        "src": "assets/mavi-magalhaes-1bctwbMuHRqy1C4RCZXbL5TK2HqSaqyVT-web.mp4",
+        "poster": "assets/mavi-magalhaes-1bctwbMuHRqy1C4RCZXbL5TK2HqSaqyVT-poster.webp"
+      }
+    }
+  ],
+  "heroVideo": {
+    "src": "assets/hero-verona.mp4",
+    "poster": "assets/hero-verona-poster.webp"
+  }
+}

@@ -1,0 +1,10 @@
+import { mkdirSync, copyFileSync, cpSync, rmSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import path from 'node:path';
+const root = fileURLToPath(new URL('../', import.meta.url));
+const dist = path.join(root, 'dist');
+rmSync(dist, { recursive: true, force: true });
+mkdirSync(dist, { recursive: true });
+for (const file of ['index.html', 'globals.css', 'app.js', 'favicon.svg']) copyFileSync(path.join(root, file), path.join(dist, file));
+for (const directory of ['assets', 'content']) cpSync(path.join(root, directory), path.join(dist, directory), { recursive: true });
+console.log('Casa Verona: site gerado em dist/');
